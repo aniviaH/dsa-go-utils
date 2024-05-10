@@ -9,5 +9,6 @@ func main() {
 		fmt.Println(index, value)
 	}
 
-	// list := NewLinkedListFromSlice(slice)
+	list := NewLinkedListFromSlice(slice)
+	fmt.Println(list)
 }

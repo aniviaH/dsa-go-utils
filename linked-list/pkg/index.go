@@ -1,4 +1,4 @@
-package linkedlist
+package pkg
 
 type ListNode struct {
 	Val  int
